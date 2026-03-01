@@ -307,15 +307,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** - For the amazing UI library
 - **Chart.js** - For beautiful data visualizations
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [Issues](https://github.com/yourusername/resume_analyser-main/issues)
-3. Create a new issue with detailed information
-4. Contact us at support@resumeanalyzer.com
-
----
 
 **🚀 Start optimizing your resume today and land your dream job!**
